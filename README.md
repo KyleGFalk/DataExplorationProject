@@ -1,6 +1,6 @@
 # COVID-19 Data Exploration Project
 
-This project explores COVID-19 data using basic to advanced SQL queries. These queries answer questions and explore trends over the course of COVID-19. Once data exploration is completed in SQL, the queries are used to create data visualizations in Tableau. My data exploration in SQL can be viewed <a href= "https://github.com/KyleGFalk/DataExplorationProject/blob/main/Covid-19%20Data%20Exploration%20Project.sql">here</a> and my dashboard in Tableau <a href= "https://public.tableau.com/app/profile/kyle4763/viz/CovidDashboard_16752675155180/Dashboard1">here</a>. This project was built using SQL Server Management Studio (SSMS).
+This project explores COVID-19 data using basic to advanced SQL queries. These queries answer questions and explore trends over the course of COVID-19. Once data exploration is completed in SQL, the queries are used to create data visualizations in Tableau. My data exploration in SQL can be viewed <a href= "https://github.com/KyleGFalk/DataExplorationProject/blob/main/Covid-19%20Data%20Exploration%20Project.sql">here</a> and my dashboard in Tableau <a href= "https://public.tableau.com/app/profile/kyle4763/viz/CovidDashboard_16752675155180/Dashboard1">here</a>. This project was built using Big Query.
 
 </p>
 
